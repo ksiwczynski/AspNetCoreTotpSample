@@ -14,3 +14,7 @@ To use TOTP:
 * Set up authenticator app
 * Log out
 * Log in with TOTP
+
+Resources used:
+* https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity-enable-qrcodes?view=aspnetcore-6.0
+* https://davidshimjs.github.io/qrcodejs/
